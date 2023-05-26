@@ -1,0 +1,22 @@
+.container {
+  margin: 30px 50px;
+}
+
+* {
+  background: linear-gradient(to right, #333a3b, #55690d);
+}
+input {
+  font-size: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+::placeholder {
+  color: rgb(183, 185, 185);
+}
+select {
+  background: linear-gradient(to left, #333a3b, #7f9b18);
+}
+span {
+  background: none;
+  color: rgb(183, 185, 185);
+}
